@@ -19,3 +19,11 @@ img {
 #insects li {
   font-weight: bolder;
 }
+
+button{
+  margin: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+}

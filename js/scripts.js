@@ -1,7 +1,6 @@
 $(function() {
   $("form").submit(function(event){
 
-
     var animal = $("#animalTypes").val();
 
     if (animal === "Turtles") {
@@ -12,7 +11,7 @@ $(function() {
       $('#snakes').show();
       $('#turtles').hide();
       $('#insects').hide();
-    } else { (animal === "Insects")
+    } else { 
       $('#insects').show();
       $('#turtles').hide();
       $('#snakes').hide();
