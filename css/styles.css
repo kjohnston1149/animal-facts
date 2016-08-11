@@ -9,3 +9,13 @@
 #snakes {
   display: none;
 }
+
+img {
+  padding: 10px;
+  height: 300px;
+  width: auto;
+}
+
+#insects li {
+  font-weight: bolder;
+}
